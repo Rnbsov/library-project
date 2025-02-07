@@ -2,8 +2,8 @@ package org.zere.backend.services;
 
 import org.zere.backend.models.Library;
 import org.zere.backend.models.Edition;
-import org.zere.backend.repository.LibraryRepository;
-import org.zere.backend.repository.EditionRepository;
+import org.zere.backend.repositories.LibraryRepository;
+import org.zere.backend.repositories.EditionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

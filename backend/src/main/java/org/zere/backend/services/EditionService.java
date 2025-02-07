@@ -3,7 +3,7 @@ package org.zere.backend.services;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.zere.backend.models.Edition;
-import org.zere.backend.repository.EditionRepository;
+import org.zere.backend.repositories.EditionRepository;
 
 import java.util.List;
 

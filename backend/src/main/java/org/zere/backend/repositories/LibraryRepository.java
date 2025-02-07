@@ -1,4 +1,4 @@
-package org.zere.backend.repository;
+package org.zere.backend.repositories;
 
 import org.zere.backend.models.Library;
 import org.springframework.data.jpa.repository.JpaRepository;
