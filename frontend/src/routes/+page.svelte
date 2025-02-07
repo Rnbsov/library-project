@@ -92,7 +92,7 @@
 		<input type="number" id="departmentId" bind:value={newEdition.departmentId} />
 	</div>
 	<div class="form-group">
-		<button on:click={addEdition}>Add Edition</button>
+		<button class="bg-amber-400" on:click={addEdition}>Add Edition</button>
 	</div>
 
 	<h2>Departments</h2>
