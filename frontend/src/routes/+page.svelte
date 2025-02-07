@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div class="flex justify-center items-center h-screen bg-purple-200">
+	<h1 class="font-bold">Zere nubik 👎</h1>
+</div>
